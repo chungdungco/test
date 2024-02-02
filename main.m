@@ -1,4 +1,6 @@
 s = 'In a lovely loft apartment';
+s = 'In a lovely loft apartment';
+
 % Tinh tong so bit ban dau
 len = length(s);
 total_bits_original = len * 8; 
